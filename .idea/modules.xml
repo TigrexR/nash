@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/admin/admin.iml" filepath="$PROJECT_DIR$/admin/admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/admin/api/api.iml" filepath="$PROJECT_DIR$/admin/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/admin/impl/impl.iml" filepath="$PROJECT_DIR$/admin/impl/impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/nash.iml" filepath="$PROJECT_DIR$/.idea/nash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/admin/impl/service.iml" filepath="$PROJECT_DIR$/admin/impl/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/admin/web/web.iml" filepath="$PROJECT_DIR$/admin/web/web.iml" />
+    </modules>
+  </component>
+</project>
